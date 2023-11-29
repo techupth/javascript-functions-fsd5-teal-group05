@@ -6,7 +6,7 @@ function add(a, b) {
 let test1 = add(5, 10);
 console.log(test1);
 
-function subtarct(a, b) {
+function subtract(a, b) {
   let result = a - b;
   return result;
 }
